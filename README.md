@@ -4,22 +4,21 @@
 This project implements a basic blockchain-based transaction system using Proof of Work (PoW). The system consists of a blockchain, miners, and a distributor that acts as an intermediary between users and miners.
 
 ## Directory Structure
-
-blockchain_implementation/
-- `app.py`
-- `blockchain.py`
-- `miner.py`
-- `distributor.py`
-- `transaction.py`
-- `manager.py`
-- `requirements.txt`
-- `templates/`
-  - `index.html`
-- `static/`
-  - `css/`
-    - `style.css`
-  - `js/`
-    - `main.js`
+- `blockchain_implementation`
+  - `app.py`
+  - `blockchain.py`
+  - `miner.py`
+  - `distributor.py`
+  - `transaction.py`
+  - `manager.py`
+  - `requirements.txt`
+  - `templates/`
+    - `index.html`
+  - `static/`
+    - `css/`
+      - `style.css`
+    - `js/`
+      - `main.js`
 
 
 
