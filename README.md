@@ -6,21 +6,21 @@ This project implements a basic blockchain-based transaction system using Proof 
 ## Directory Structure
 
 blockchain_implementation/
-├── app.py
-├── blockchain.py
-├── miner.py
-├── distributor.py
-├── transaction.py
-├── manager.py
-├── requirements.txt
-├── templates/
-│ └── index.html
-├── static/
-│ ├── css/
-│ │ └── style.css
-│ └── js/
-│ └── main.js
-└── README.md
+- `app.py`
+- `blockchain.py`
+- `miner.py`
+- `distributor.py`
+- `transaction.py`
+- `manager.py`
+- `requirements.txt`
+- `templates/`
+  - `index.html`
+- `static/`
+  - `css/`
+    - `style.css`
+  - `js/`
+    - `main.js`
+
 
 
 ## Setup
